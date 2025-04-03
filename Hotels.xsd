@@ -20,7 +20,8 @@
                     		    <xsd:element name="Zip" type="xsd:string"/>
                                 </xsd:sequence>
                             </xsd:complexType>
-
+			    </xsd:element>
+				    
                         </xsd:sequence>
 			<xsd:attribute name="Rating" type="xsd:decimal" use="optional"/>
             		<xsd:attribute name="NearstAirport" type="xsd:string" use="required"/>
