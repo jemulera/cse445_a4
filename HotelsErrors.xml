@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotel>
 
-    <Hotel Rating="4.2">
+    <Hotel _Rating="4.2">
         <Name>Westin</Name>
 	<Phone>480-968-8885</Phone>
 	<Phone>800-937-8461</Phone>
@@ -14,11 +14,11 @@
 	</Address>
     </Hotel>
 
-    <Hotel Rating="4.6">
+    <Hotel _Rating="4.6">
         <Name>Grand Hyatt Scottsdale Resort</Name>
 	<Phone>480-444-1234</Phone>
 	<Phone>800-323-7249</Phone>
-	<Address NearstAirport="Sky Harbor">
+	<Address _NearstAirport="Sky Harbor">
 	    <Number>7500</Number>
 	    <Street>E. Doubletree Ranch Rd.</Street>
 	    <City>Scottsdale</City>
@@ -27,12 +27,12 @@
 	</Address>
     </Hotel>
 
-    <Hotel Rating="4.5">
+    <Hotel _Rating="4.5">
         <Name>Hotel Del Coronado</Name>
 	<Phone>619-435-6611</Phone>
 	<Phone>800-468-3533</Phone>
 	<Phone>800-445-8667</Phone>
-	<Address NearstAirport="San Diego International">
+	<Address _NearstAirport="San Diego International">
 	    <Number>1500</Number>
 	    <Street>Orange Ave.</Street>
 	    <City>Coronado</City>
@@ -44,7 +44,7 @@
     <Hotel>
         <Name>DoubleTree by Hilton Tucson Downtown Convention Center</Name>
 	<Phone>520-372-7100</Phone>
-	<Address NearstAirport="Tucson International Airport">
+	<Address _NearstAirport="Tucson International Airport">
 	    <Number>280</Number>
 	    <Street>S. Church Ave.</Street>
 	    <City>Tucson</City>
@@ -56,7 +56,7 @@
     <Hotel>
         <Name>LaGuardia Plaza Hotel</Name>
 	<Phone>718-457-6300</Phone>
-	<Address NearstAirport="LaGuardia Airport">
+	<Address _NearstAirport="LaGuardia Airport">
 	    <Number>104</Number>
 	    <Street>Ditmars Blvd.</Street>
 	    <City>East Elmhurst</City>
@@ -65,11 +65,11 @@
 	</Address>
     </Hotel>
 
-    <Hotel Rating="4.6">
+    <Hotel _Rating="4.6">
         <Name>The Venetian Las Vegas</Name>
 	<Name>The Luxor</Name>
 	<Phone>702-414-1000</Phone>
-	<Address NearstAirport="Harry Reid International Airport">
+	<Address _NearstAirport="Harry Reid International Airport">
 	    <Number>3355</Number>
 	    <Street>S. Las Vegas Blvd.</Street>
 	    <City>Las Vegas</City>
@@ -78,10 +78,10 @@
 	</Address>
     </Hotel>
 
-    <Hotel Rating="4.2">
+    <Hotel _Rating="4.2">
         <Name>Waldorf Astoria Washington DC</Name>
 	<Phone>202-695-1100</Phone>
-	<Address NearstAirport="Ronald Reagan Washington National Airport">
+	<Address _NearstAirport="Ronald Reagan Washington National Airport">
 	    <Number>1100</Number>
 	    <Street>Pennsylvania Ave.</Street>
 	    <City>Washington</City>
@@ -89,9 +89,9 @@
 	    <Zip>20004</Zip>
     </Hotel>
 
-    <Hotel Rating="4.4">
+    <Hotel _Rating="4.4">
         <Name>The Fairmont Chicago</Name>
-        <Address NearstAirport="O'Hare International Airport">
+        <Address _NearstAirport="O'Hare International Airport">
             <Number>200</Number>
             <Street>North Columbus Dr</Street>
             <City>Chicago</City>
@@ -100,10 +100,10 @@
         </Address>
     </Hotel>
 
-    <Hotel Rating="4.7">
+    <Hotel _Rating="4.7">
         <Name>The Ritz-Carlton, Dallas</Name>
         <Phone>214-922-0200</Phone>
-        <Address NearstAirport="Dallas/Fort Worth International Airport">
+        <Address _NearstAirport="Dallas/Fort Worth International Airport">
             <Number>2121</Number>
             <Street>McKinney Ave</Street>
             <City>Dallas</City>
@@ -112,10 +112,10 @@
         </Address>
     </Hotel>
 
-    <Hotel Rating="4.1">
+    <Hotel _Rating="4.1">
         <Name>Omni Parker House</Name>
         <Phone>617-227-8600</Phone>
-        <Address NearstAirport="Boston Logan International Airport">
+        <Address _NearstAirport="Boston Logan International Airport">
             <Number>60</Number>
             <Street>School St.</Street>
             <City>Boston</City>
