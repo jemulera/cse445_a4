@@ -12,7 +12,6 @@
                             <xsd:element name="Address">
 
                             <xsd:complexType>
-				<xsd:attribute name="NearstAirport" type="xsd:string" use="required"/>
                                 <xsd:sequence>
             			    <xsd:element name="Number" type="xsd:string"/>
                     	            <xsd:element name="Street" type="xsd:string"/>
@@ -20,6 +19,7 @@
                     		    <xsd:element name="State" type="xsd:string"/>
                     		    <xsd:element name="Zip" type="xsd:string"/>
                                 </xsd:sequence>
+				<xsd:attribute name="NearstAirport" type="xsd:string" use="required"/>
                             </xsd:complexType>
 			    </xsd:element>
 				    
